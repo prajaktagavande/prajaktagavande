@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JAVA full stack course**
 
-- 📫 How to reach me **prajaktagavande595@gmail.com**
+- 📫 How to reach me 
    Linkedin profile  **https://www.linkedin.com/in/prajakta-gavande-787182267
 
 ### Connect with me :)
