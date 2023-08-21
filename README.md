@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Prajakta Gavande
-## A passionate full stack java developer
+## A passionate full stack java developer        
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajaktagavande&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktagavande" /> </p>
 
@@ -22,7 +22,10 @@
       react , springboot
 ###   Tools
       Git ,Github ,Command line
-     
+
+## Projects
+ + Home rental system
+ + portfolio website
     
     
 
